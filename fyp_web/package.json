@@ -31,7 +31,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "yarn build",
-    "deploy": "REACT_APP_BACKEND_URL=http://127.0.0.1:8000/ gh-pages -d build",
+    "deploy": "REACT_APP_BACKEND_URL=http://54.251.157.214/ gh-pages -d build",
     "homepage": "https://benFrogg.github.io/facemover-frontend"
   },
   "eslintConfig": {
